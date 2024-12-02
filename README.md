@@ -28,3 +28,4 @@ Chai allows you to leverage different AI agents from multiple providers (OpenAI,
 - 🗄️ Database integration for agent data persistence
 
 
+Chai (Chain of Models and Actions) -> Chai agent
