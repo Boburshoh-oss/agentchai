@@ -1,0 +1,5 @@
+analyze_webpage:
+    input: https://example.com
+    model: gpt-4o-mini
+    action: Analyze the webpage content and provide a summary
+    output: STDOUT
