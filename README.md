@@ -27,4 +27,4 @@ Chai allows you to leverage different AI agents from multiple providers (OpenAI,
 - 📝 Markdown file support for reusable agent actions
 - 🗄️ Database integration for agent data persistence
 
-[Rest of the README content remains the same...]
+
