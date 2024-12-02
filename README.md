@@ -1,4 +1,4 @@
-![robot image](Chai-small.jpg)
+
 
 # Chai (Chain of Models and Actions)
 
